@@ -63,7 +63,3 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feyzasyf&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=feyzasyf&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
