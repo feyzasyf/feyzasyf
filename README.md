@@ -32,9 +32,9 @@
 
 - :telescope: I’m a self-taught web developer 
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently working with React.js adn experimenting with Vue and Svelte
 
-- :seedling: Exploring Backend development with C# and Java.
+- :seedling: Exploring Backend development with C# and Rust.
 
 - :zap: In my free time, I solve problems on Codewars and Leetcode and read tech articles.
 
