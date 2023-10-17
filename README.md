@@ -32,7 +32,7 @@
 
 - :telescope: I’m a self-taught web developer 
 
-- 🌱 I’m currently working with React.js adn experimenting with Vue and Svelte
+- 🌱 I’m currently working with React.js and experimenting with Vue and Svelte
 
 - :seedling: Exploring Backend development with C# and Rust.
 
